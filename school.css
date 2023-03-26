@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    color: white;
+}
+.login{
+text-align: center;
+justify-items: center;
+align-items: center;
+justify-content: center;
+
+margin-top: 100px;
+}
+#adm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    border: none;
+}
+input#adm{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+input#login{
+font-size: 15px;
+padding:6px;
+width: 85px;
+border-radius: 10px;
+background-color: crimson;
+}
+#login{
+    font-weight: bolder;
+    font-size: 80px;
+}
+label{
+    font-size: 20px;
+    
+}
+.captain img{
+    border-radius: 18px;
+}
+.h2{
+    color:rgb(20, 220, 130);
+    text-align: center;
+}
+.radio{
+    font-size: 100px;
+}
+input[type=radio] {
+
+    font-size: 100px;
+}
